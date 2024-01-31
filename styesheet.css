@@ -1,0 +1,51 @@
+#calculator{
+  border: 1px solid;
+  width: 200px;
+  height: 350px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+  #display {
+    height: 23px;
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 13px;
+    margin-right: 20px;
+    background-color: #f0f0f0; /* You can adjust the background color as needed */
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+  }
+  #button-main-container{
+    border: 1px solid;
+    height: 300px;
+    width: 150px;
+    
+    display: flex;
+    justify-content: center;
+    margin-left: 18px;
+  }
+  .orignal_button{
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    margin-top: 5px;
+    
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+/* #button-row-1{
+  height: 50px;
+  width: 170px;
+} */
